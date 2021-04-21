@@ -1,0 +1,12 @@
+.main__container {
+  display: flex;
+  height: calc(100% - 30px);
+}
+
+.main__container .inner__nav {
+  flex: 1;
+}
+
+.main__container .inner__content {
+  flex: 8;
+}
